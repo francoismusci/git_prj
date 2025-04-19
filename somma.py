@@ -1,8 +1,4 @@
-"""
 
-la funzione somma prende in input due numeri e restituisce la loro somma
-
-"""
 
 
 def somma(a,b):
